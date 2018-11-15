@@ -1,1 +1,0 @@
-Ionicons docs
